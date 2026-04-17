@@ -12,31 +12,14 @@ GitHub doesn't currently allow "gists" to belong to an organization, while also 
 organizational profiles. As a practical work-around, Theia Institute will place such proofs here so that sites that
 require such identifiers.
 
-## Links to Our Public Identity Authenticators
-- [Browse Available Identifiers/Verifiations in Plaintext](verification/)
-- [@theia@infosec.exchange][infosec.exchange]
+## Links to Our [Public Identity Authenticators](/verification)
 
-[infosec.exchange]: https://raw.githubusercontent.com///main/verification/service/mastodon/identities/infosec_exchange_theia.html
+### Verifications for `@theia@infosec.exchange` on Mastodon
 
-<!--
-    # Basic Template for Markdown and HTML Links
-
-    ## Base URLs
-    - https://raw.githubusercontent.com/theia-institute/social_media_proofs/refs/heads/main/verification/filename
-    - https://github.com///blob/main/verification/filename
-
-    ## Examples
-
-    Raw Viewer with Branch
-    : <https://raw.githubusercontent.com///main/identities/identity_file.html>
-
-    Blob Viewer with Branch Name
-    : <https://github.com///blob/main/identities/identity_one.html>
-
-    Reposotory Viewer with Relative Path Displayed as Plaintext
-    : [identity name](/identities/identity_file)
-
--->
+GitHub
+: [Organizational Profile](https://github.com/theia-institute)
+: [This Repository](https://raw.githubusercontent.com/theia-institute/social_media_proofs/refs/heads/main/verification/service/mastodon/identities/infosec_exchange_theia.html)
+: [Gist from the Executive Director](https://gist.githubusercontent.com/todd-a-jacobs/205611c1e2195f37117f1f58ec8b549d/raw/fb9a22f04d04978baaee511f9452b590255a49fa/@theia@infosec.exchange.html)
 
 ---
 

@@ -1,8 +1,9 @@
 # Theia Institute: Social Media Proofs
 <a href="https://infosec.exchange/@theia" rel="me external"></a>
 
-To learn more about Theia Institute and its non-profit and international NGO programs, please see our [GitHub
-profile](https://github.com/theia-institute) instead.
+Please see our [GitHub profile](https://github.com/theia-institute) to
+To learn more about Theia Institute and its non-profit and international
+NGO programs,
 
 ## Purpose of Repository
 Social media security involves a web of trust. That often involves having external proofs or identify authenticators
@@ -16,11 +17,10 @@ require such identifiers.
 ## Links to Our [Public Identity Authenticators](/verification)
 
 ### Verifications for `@theia@infosec.exchange` on Mastodon
-
-GitHub
-: [Organizational Profile](https://github.com/theia-institute)
-: [This Repository](https://raw.githubusercontent.com/theia-institute/social_media_proofs/refs/heads/main/verification/service/mastodon/identities/infosec_exchange_theia.html)
-: [Gist from the Executive Director](https://gist.githubusercontent.com/todd-a-jacobs/205611c1e2195f37117f1f58ec8b549d/raw/fb9a22f04d04978baaee511f9452b590255a49fa/@theia@infosec.exchange.html)
+#### GitHub
+- [Organizational Profile](https://github.com/theia-institute)
+- [This Repository](https://raw.githubusercontent.com/theia-institute/social_media_proofs/refs/heads/main/verification/service/mastodon/identities/infosec_exchange_theia.html)
+- [Gist from the Executive Director](https://gist.githubusercontent.com/todd-a-jacobs/205611c1e2195f37117f1f58ec8b549d/raw/fb9a22f04d04978baaee511f9452b590255a49fa/@theia@infosec.exchange.html)
 
 ---
 

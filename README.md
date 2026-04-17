@@ -1,4 +1,5 @@
 # Theia Institute: Social Media Proofs
+<a href="https://infosec.exchange/@theia" rel="me external"></a>
 
 To learn more about Theia Institute and its non-profit and international NGO programs, please see our [GitHub
 profile](https://github.com/theia-institute) instead.
